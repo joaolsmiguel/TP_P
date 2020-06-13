@@ -1,8 +1,3 @@
-/*
-Joao luis silva miguel
-2018018852
-
-*/
 #include "includes.h"
 
 #ifndef CONFIG_H
