@@ -1,10 +1,3 @@
-/*
-Joao luis silva miguel
-2018018852
-
-*/
-
-
 #include "includes.h"
 
 int main() {
@@ -33,6 +26,5 @@ int main() {
             free(aux);
         }
     }
-
     return (0);
 }
