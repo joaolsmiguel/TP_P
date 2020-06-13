@@ -1,8 +1,3 @@
-/*
-Joao luis silva miguel
-2018018852
-*/
-
 #ifndef INCLUDES_H
 #define INCLUDES_H
 
