@@ -21,8 +21,8 @@ int main() {
         //LIBERTACAO MEMORIA
         free(pEspaco);
         while (pPessoas != NULL){
-            pessoa* aux = p;
-            p = p ->prox;
+            pessoa* aux = pPessoas;
+            pPessoas = pPessoas->prox;
             free(aux);
         }
     }
